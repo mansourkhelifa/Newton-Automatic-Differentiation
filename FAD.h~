@@ -9,7 +9,6 @@ class FAD
 {
 public:
 
-
 //Constructor definition
 
     FAD()
